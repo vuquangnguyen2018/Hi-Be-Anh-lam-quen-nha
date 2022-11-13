@@ -16,5 +16,6 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. CHO ANH LÀM QUEN BÉ NHA 😘😘',
     messDesc: 'Cho anh làm quen nho!!! ❤️💗💗💗.',
     btnAccept: 'Okiiiii lun <3 👍💕',
-    messLink: 'https://github.com/vuquangnguyen2018/Hi-Be-Anh-lam-quen-nha' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://forms.office.com/r/mNH9jncnXW' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+// https://vuquangnguyen2018.github.io/Hi-Be-Anh-lam-quen-nha/
