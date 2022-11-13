@@ -10,12 +10,12 @@
 
 # Sơ lược về bản thân anh:
 
-     Anh: 1997;  hiện tại ở Thủ Đức
+    Anh: 1997;  hiện tại ở Thủ Đức
     Tối nghiệp Đại học khoa học Tự nhiên (loại Giỏi) - năm 2019
     Sinh viên năm cuối đại học Kinh tế Tp.HCM (2020-2023)
     Đã đi làm, ngành phân tích, tại quận 5, TP.HCM 
     Quê anh có nhiều đồi Cà phê (biển số 47) và biển (biển số 79), nhưng đón tết ở SG được 9 năm rồi (nói giọng miền Nam)
-     Cao gần 1m76, vẻ ngoài ưa nhìn lạnh lùng, vui vẻ
+    Cao gần 1m76, vẻ ngoài ưa nhìn lạnh lùng, vui vẻ
     Thích đi du lịch, pha chế đồ uống, xem film ngôn tình, xa hơn muốn đi chơi cùng em những ngày cuối tuần, hoặc rảnh 
     Bản thân là 1 người hiểu chuyện nên mình, cực kỳ ấm áp, rất biết cách quan tâm, lo lắng, (sẵn sàng ở bên em lúc em cần, chẳng hạn là mua bvs anh cũng sẳn lòng đó)
 
@@ -36,4 +36,4 @@ Chúng mình không thể chọn nơi sinh ra, nhưng chúng mình có quyền v
 
 Cuối cùng nếu em cảm thấy phù hợp và có hứng thú thì react “Sad” hoặc EM có thể điền form để anh liên lạc với em nhé.
 
-ANH chờ EM,  Mai-Đẹt-ti-ni của anh!!! 
+## ANH chờ EM,  Mai-Đẹt-ti-ni của anh!!! 
